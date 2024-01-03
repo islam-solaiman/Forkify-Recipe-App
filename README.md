@@ -3,24 +3,6 @@
     <img src="./src/img/favicon.png" alt="Logo" width="15%" height="auto">
  </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/version-2.0.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://forkify-alamin.netlify.app/" target="_blank">
-    <img alt="Demo" src="https://img.shields.io/badge/demo-online-green.svg" />
-  </a>
-  <a href="https://github.com/CodePapa360/Forkify-Recipe-App#readme" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
-  </a>
-  <a href="https://github.com/CodePapa360/Forkify-Recipe-App/graphs/commit-activity" target="_blank">
-    <img alt="Maintenance" src="https://img.shields.io/badge/maintained-yes-green.svg" />
-  </a>
-  <a href="https://github.com/CodePapa360/Forkify-Recipe-App/blob/master/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-  </a>
-  <a href="https://twitter.com/CodePapa360" target="_blank">
-    <img alt="Twitter: CodePapa360" src="https://img.shields.io/twitter/follow/CodePapa360.svg?style=social" />
-  </a>
-</p>
 
 <h2 align="center">
 Check out the <a href="https://forkify-app-for-recipes.netlify.app/" target="_blank">live Forkify App here</a>.
@@ -47,7 +29,7 @@ Forkify is a recipe search and saving app, built with HTML5, CSS3, and JavaScrip
 - NPM
 
 <p align="center">
-  <img alt="Forkify App" src="./src/img/forkify-alamin-screenshot.png" width="100%" />
+  <img alt="Forkify App" src="./src/img/forkify.gif" width="100%" />
 </p>
 
 ## Flowchart
@@ -67,7 +49,7 @@ Forkify is a recipe search and saving app, built with HTML5, CSS3, and JavaScrip
 - Clone this repo:
 
 ```sh
-git clone https://github.com/CodePapa360/Forkify-Recipe-App.git
+git clone https://github.com/islam-solaiman/Forkify-Recipe-App.git
 ```
 
 - Install dependencies:
@@ -100,7 +82,3 @@ Special thanks to Jonas for his excellent teaching and guidance throughout the c
 ## Show your support
 
 Give a ⭐️ if you liked this project!
-
-## License
-
-This project is [MIT](https://github.com/codepapa360/Forkify-Recipe-App/blob/master/LICENSE) licensed.
